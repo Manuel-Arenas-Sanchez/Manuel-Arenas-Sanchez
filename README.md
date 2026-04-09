@@ -13,8 +13,8 @@
 <br>
 
 <table>
-  <tr>
-    <td width="58%" valign="top">
+<tr>
+<td width="58%" valign="top">
 
 ## About Me
 
@@ -26,33 +26,8 @@ Lately, I have been especially focused on quantum-inspired machine learning, mod
 
 > I like work that starts with mathematical structure and ends in something you can actually build, test, and improve.
 
-## What I Am Working On
-
-- Tensor-network-based models for image classification
-- Research projects connecting physics and AI
-- Scientific programming with Python
-- Technical writing and academic work in LaTeX
-- Building a stronger public portfolio on GitHub
-
-## Featured Projects
-
-<table>
-  <tr>
-    <td valign="top">
-      <a href="https://github.com/Manuel-Arenas-Sanchez/Tensor-Network-Based-Models-for-Image-Classification-in-Deep-Learning"><strong>Tensor-Network-Based-Models-for-Image-Classification-in-Deep-Learning</strong></a><br>
-      A project centered on using tensor-network ideas to build more efficient deep learning models for image classification.
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <a href="https://github.com/Manuel-Arenas-Sanchez/Tensor-Network-Based-Machine-Learning-Flowers-Dataset-Benchmark"><strong>Tensor-Network-Based-Machine-Learning-Flowers-Dataset-Benchmark</strong></a><br>
-      A benchmark-oriented project exploring how tensor-network-based approaches behave on image datasets in practice.
-    </td>
-  </tr>
-</table>
-
-    </td>
-    <td width="42%" valign="top">
+</td>
+<td width="42%" valign="top">
 
 ## Toolbox
 
@@ -75,17 +50,46 @@ Lately, I have been especially focused on quantum-inspired machine learning, mod
 - Mathematical foundations of AI
 - Research + implementation workflows
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
+
+## What I Am Working On
+
+- Tensor-network-based models for image classification
+- Research projects connecting physics and AI
+- Scientific programming with Python
+- Technical writing and academic work in LaTeX
+- Building a stronger public portfolio on GitHub
+
+## Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| **Tensor-Network-Based-Models-for-Image-Classification-in-Deep-Learning** | Using tensor-network ideas to build more efficient deep learning models for image classification. |
+| **Tensor-Network-Based-Machine-Learning-Flowers-Dataset-Benchmark** | Exploring how tensor-network-based approaches behave on image datasets in practice. |
+
+> These projects are currently in development. Links will be added once the repositories are public.
 
 <br>
 
+<div align="center">
+
 ## GitHub Snapshot
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Manuel-Arenas-Sanchez&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manuel-Arenas-Sanchez&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+<a href="https://github.com/Manuel-Arenas-Sanchez">
+  <img height="170" src="https://github-readme-stats-manuelarenassanchez.vercel.app/api?username=Manuel-Arenas-Sanchez&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats-manuelarenassanchez.vercel.app/api/top-langs/?username=Manuel-Arenas-Sanchez&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+</a>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=Manuel-Arenas-Sanchez&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+> If the stats cards above are not loading, they require a one-time setup.
+> Fork [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and deploy it to your own Vercel account, then replace the URLs above with your deployed instance.
+> The streak card from `demolab.com` should work without extra setup.
+
 </div>
 
 <br>
