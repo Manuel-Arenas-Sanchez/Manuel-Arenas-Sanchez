@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=220&section=header&text=Manuel%20Arenas%20Sanchez&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Physics%20|%20AI%20|%20Tensor%20Networks&descAlignY=58" alt="header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=220&section=header&text=Manuel%20Arenas%20Sánchez&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Physics%20|%20Quantum%20Computing%20|%20AI%20|%20Tensor%20Networks&descAlignY=58" alt="header banner" />
 
 ### Physics student exploring tensor networks, quantum-inspired models, and their applications to machine learning
 
