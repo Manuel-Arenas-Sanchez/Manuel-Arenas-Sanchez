@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=220&section=header&text=Manuel%20Arenas%20Sanchez&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Physics%20x%20AI%20x%20Tensor%20Networks&descAlignY=58" alt="header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=220&section=header&text=Manuel%20Arenas%20Sanchez&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Physics%20|%20AI%20|%20Tensor%20Networks&descAlignY=58" alt="header banner" />
 
 ### Physics student exploring tensor networks, quantum-inspired models, and their applications to machine learning
 
@@ -54,10 +54,8 @@ I approach problems from a physics-first perspective: starting from the structur
 
 ## What I Am Working On
 
-- Applying tensor-network structures (MPS, TTN) to image classification problems
-- Benchmarking tensor-network-based models against standard deep learning approaches
-- Studying how entanglement and bond dimension affect model expressivity
-- Scientific programming in Python and technical writing in LaTeX
+- Applying tensor-network structures (MPS, TTN) to image classification problems.
+- Benchmarking tensor-network-based models against standard deep learning approaches.
 
 ## Featured Projects
 
