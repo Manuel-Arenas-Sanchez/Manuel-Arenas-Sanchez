@@ -26,8 +26,8 @@ Here are a few areas I am actively developing:
 - Technical reports and academic writing in physics and AI
 - Programming projects involving data analysis, modeling, and automation
 
-- `Tensor-Network-Based-Models-for-Image-Classification-in-Deep-Learning`: one-line description
-- `Tensor-Network-Based-Machine-Learning-Flowers-Dataset-Benchmark`: one-line description
+- `Tensor-Network-Based-Models-for-Image-Classification-in-Deep-Learning`
+- `Tensor-Network-Based-Machine-Learning-Flowers-Dataset-Benchmark`
 
 ## Tech Stack
 
