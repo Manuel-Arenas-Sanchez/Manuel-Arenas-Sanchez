@@ -39,19 +39,17 @@ Lately, I have been especially focused on quantum-inspired machine learning, mod
 <table>
   <tr>
     <td valign="top">
-      <strong>Tensor-Network-Based-Models-for-Image-Classification-in-Deep-Learning</strong><br>
+      <a href="https://github.com/Manuel-Arenas-Sanchez/Tensor-Network-Based-Models-for-Image-Classification-in-Deep-Learning"><strong>Tensor-Network-Based-Models-for-Image-Classification-in-Deep-Learning</strong></a><br>
       A project centered on using tensor-network ideas to build more efficient deep learning models for image classification.
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <strong>Tensor-Network-Based-Machine-Learning-Flowers-Dataset-Benchmark</strong><br>
+      <a href="https://github.com/Manuel-Arenas-Sanchez/Tensor-Network-Based-Machine-Learning-Flowers-Dataset-Benchmark"><strong>Tensor-Network-Based-Machine-Learning-Flowers-Dataset-Benchmark</strong></a><br>
       A benchmark-oriented project exploring how tensor-network-based approaches behave on image datasets in practice.
     </td>
   </tr>
 </table>
-
-If these are your strongest repositories, pin them on your GitHub profile so they appear directly below this README.
 
     </td>
     <td width="42%" valign="top">
@@ -86,17 +84,15 @@ If these are your strongest repositories, pin them on your GitHub profile so the
 ## GitHub Snapshot
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Manuel-Arenas-Sanchez&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manuel-Arenas-Sanchez&layout=compact&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Manuel-Arenas-Sanchez&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manuel-Arenas-Sanchez&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
 </div>
 
 <br>
 
 ## A More Personal Note
 
-What I like most about this area is when a very abstract idea becomes something you can actually build, test, and improve.
-
-This profile is where I share that process: what I am learning, what I am making, and the kind of technical work I want to keep doing.
+This profile is where I share that process: what I am learning, what I am building, and the kind of technical work I want to keep doing.
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1d4ed8,100:0f172a&height=120&section=footer" alt="footer banner" />
