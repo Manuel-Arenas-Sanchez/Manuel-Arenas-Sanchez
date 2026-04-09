@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=220&section=header&text=Manuel%20Arenas%20Sanchez&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Physics%20x%20AI%20x%20Tensor%20Networks&descAlignY=58" alt="header banner" />
 
-### Physics student building at the intersection of AI, tensor networks, and scientific computing
+### Physics student exploring tensor networks, quantum-inspired models, and their applications to machine learning
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-arenas-sánchez-8ba6b9352)
 [![Email](https://img.shields.io/badge/Email-Write%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manuelarenas2002@hotmail.es)
@@ -18,13 +18,11 @@
 
 ## About Me
 
-I am a Physics student with a strong interest in machine learning, tensor networks, and the mathematical structure behind intelligent systems.
+I am a Physics student interested in the mathematical structures that underlie both quantum many-body systems and modern machine learning. My work is centred on **tensor networks** — a formalism rooted in quantum physics — and how they can be applied to build more interpretable and efficient models for tasks like image classification.
 
-I enjoy projects that sit between theory and implementation: research-driven work, technical writing, scientific programming, and ideas from physics that can be turned into practical tools.
+I approach problems from a physics-first perspective: starting from the structure of the theory, then translating ideas into code that can be tested and improved. This includes research-driven projects, scientific programming, and technical writing.
 
-Lately, I have been especially focused on quantum-inspired machine learning, model efficiency, and tensor-network approaches to image classification.
-
-> I like work that starts with mathematical structure and ends in something you can actually build, test, and improve.
+> My goal is to bridge the gap between the physics of tensor networks and practical machine learning applications.
 
 </td>
 <td width="42%" valign="top">
@@ -37,18 +35,18 @@ Lately, I have been especially focused on quantum-inspired machine learning, mod
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-20232A?style=flat-square)
 ![Tensor Networks](https://img.shields.io/badge/Tensor%20Networks-20232A?style=flat-square)
+![Quantum Computing](https://img.shields.io/badge/Quantum%20Computing-20232A?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-20232A?style=flat-square)
 ![Physics](https://img.shields.io/badge/Physics-20232A?style=flat-square)
 ![Scientific Computing](https://img.shields.io/badge/Scientific%20Computing-20232A?style=flat-square)
-![Quantum Computing](https://img.shields.io/badge/Quantum%20Computing-20232A?style=flat-square)
 
 ## Currently Interested In
 
-- Efficient ML models
-- Quantum-inspired methods
+- Tensor decompositions for deep learning
+- Quantum-inspired machine learning
+- MPS and MPO architectures for classification
 - Mathematical foundations of AI
-- Research + implementation workflows
 
 </td>
 </tr>
@@ -56,20 +54,19 @@ Lately, I have been especially focused on quantum-inspired machine learning, mod
 
 ## What I Am Working On
 
-- Tensor-network-based models for image classification
-- Research projects connecting physics and AI
-- Scientific programming with Python
-- Technical writing and academic work in LaTeX
-- Building a stronger public portfolio on GitHub
+- Applying tensor-network structures (MPS, TTN) to image classification problems
+- Benchmarking tensor-network-based models against standard deep learning approaches
+- Studying how entanglement and bond dimension affect model expressivity
+- Scientific programming in Python and technical writing in LaTeX
 
 ## Featured Projects
 
 | Project | Description |
 |---------|-------------|
-| **Tensor-Network-Based-Models-for-Image-Classification-in-Deep-Learning** | Using tensor-network ideas to build more efficient deep learning models for image classification. |
-| **Tensor-Network-Based-Machine-Learning-Flowers-Dataset-Benchmark** | Exploring how tensor-network-based approaches behave on image datasets in practice. |
+| **Tensor-Network-Based-Models-for-Image-Classification-in-Deep-Learning** | Implementing and analysing tensor-network architectures (MPS, TTN) as layers within deep learning pipelines for image classification. |
+| **Tensor-Network-Based-Machine-Learning-Flowers-Dataset-Benchmark** | Benchmarking tensor-network-based models on real-world image datasets to evaluate their practical performance and scalability. |
 
-> These projects are currently in development. Links will be added once the repositories are public.
+> These repositories are currently private and will be made public in the future.
 
 <br>
 
@@ -77,18 +74,7 @@ Lately, I have been especially focused on quantum-inspired machine learning, mod
 
 ## GitHub Snapshot
 
-<a href="https://github.com/Manuel-Arenas-Sanchez">
-  <img height="170" src="https://github-readme-stats-manuelarenassanchez.vercel.app/api?username=Manuel-Arenas-Sanchez&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats-manuelarenassanchez.vercel.app/api/top-langs/?username=Manuel-Arenas-Sanchez&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
-</a>
-
-<br>
-
 <img src="https://streak-stats.demolab.com?user=Manuel-Arenas-Sanchez&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-> If the stats cards above are not loading, they require a one-time setup.
-> Fork [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and deploy it to your own Vercel account, then replace the URLs above with your deployed instance.
-> The streak card from `demolab.com` should work without extra setup.
 
 </div>
 
@@ -96,7 +82,7 @@ Lately, I have been especially focused on quantum-inspired machine learning, mod
 
 ## A More Personal Note
 
-This profile is where I share that process: what I am learning, what I am building, and the kind of technical work I want to keep doing.
+What drives me is the idea that the mathematical structures behind quantum physics can have a second life in machine learning. This profile is where I share that journey: the research I do, the code I write, and the problems I find worth thinking about.
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1d4ed8,100:0f172a&height=120&section=footer" alt="footer banner" />
