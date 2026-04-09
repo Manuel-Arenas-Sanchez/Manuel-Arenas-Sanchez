@@ -18,11 +18,13 @@
 
 ## About Me
 
-I am a Physics student interested in the mathematical structures that underlie both quantum many-body systems and modern machine learning. My work is centred on **tensor networks** — a formalism rooted in quantum physics — and how they can be applied to build more interpretable and efficient models for tasks like image classification.
+I am a Physics student currently working on my final degree project, focused on the application of **tensor networks** to machine learning problems.
 
-I approach problems from a physics-first perspective: starting from the structure of the theory, then translating ideas into code that can be tested and improved. This includes research-driven projects, scientific programming, and technical writing.
+My main interest lies in theoretical physics and quantum computing. I approach problems from a physics perspective, using programming as a tool to explore, simulate, and test ideas.
 
-> My goal is to bridge the gap between the physics of tensor networks and practical machine learning applications.
+My current work is centred on tensor networks, particularly architectures such as MPS, applied to tasks like image classification within a quantum-inspired framework. Most of this experience comes from hands-on work: implementing models, experimenting with different structures, and analysing their behaviour.
+
+> My goal is to continue my training in theoretical physics and move towards research in quantum computing.
 
 </td>
 <td width="42%" valign="top">
@@ -43,10 +45,10 @@ I approach problems from a physics-first perspective: starting from the structur
 
 ## Currently Interested In
 
-- Tensor decompositions for deep learning
-- Quantum-inspired machine learning
-- MPS and MPO architectures for classification
-- Mathematical foundations of AI
+- Tensor network architectures (MPS, TTN) for learning tasks  
+- Quantum-inspired approaches to machine learning  
+- How model structure affects expressivity and efficiency  
+- Connections between physics-based models and modern AI  
 
 </td>
 </tr>
@@ -54,8 +56,12 @@ I approach problems from a physics-first perspective: starting from the structur
 
 ## What I Am Working On
 
-- Applying tensor-network structures (MPS, TTN) to image classification problems.
-- Benchmarking tensor-network-based models against standard deep learning approaches.
+- Studying tensor network formalisms (MPS, TTN) and their application to learning problems.
+- Applying tensor-network-based models to image classification tasks.
+- Implementing and testing models using scientific computing tools (Python, PyTorch, tensorkrowch).
+- Analysing the performance and limitations of tensor-network approaches compared to standard methods.
+- Exploring quantum-inspired approaches to machine learning.
+- Developing my final degree thesis (TFG) on tensor networks applied to AI.
 
 ## Featured Projects
 
@@ -80,7 +86,9 @@ I approach problems from a physics-first perspective: starting from the structur
 
 ## A More Personal Note
 
-What drives me is the idea that the mathematical structures behind quantum physics can have a second life in machine learning. This profile is where I share that journey: the research I do, the code I write, and the problems I find worth thinking about.
+I became interested in tensor networks through my final degree project, as they provide a natural connection between quantum physics and computational modelling.
+
+This GitHub is where I keep track of what I learn and build along the way — from small experiments to more structured projects. Over time, I want it to reflect my progress towards working in quantum computing and research.
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1d4ed8,100:0f172a&height=120&section=footer" alt="footer banner" />
