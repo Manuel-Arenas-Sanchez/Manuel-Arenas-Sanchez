@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-arenas-sánchez-8ba6b9352)
 [![Email](https://img.shields.io/badge/Email-Write%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manuelarenas2002@hotmail.es)
-[![Focus](https://img.shields.io/badge/Focus-Tensor%20Networks%20%26%20ML-111111?style=for-the-badge)](#)
+[![Focus](https://img.shields.io/badge/Focus-Tensor%20Networks%20%26%20ML%20%26%20QML-111111?style=for-the-badge)](#)
 
 </div>
 
