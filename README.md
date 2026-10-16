@@ -19,13 +19,13 @@
 
 ## About Me
 
-I graduated in **Physics in July 2026** and, since **September 2026**, have been studying **Advanced Methods in Particle Physics (IMAPP)**, an Erasmus Mundus master's programme.
+I graduated in Physics in July 2026 and, since September 2026, have been studying Advanced Methods in Particle Physics (IMAPP), an Erasmus Mundus master's programme.
 
-I am currently spending my **first semester at Université Clermont Auvergne**, with subsequent semesters planned at **TU Dortmund University** and the **University of Bologna**.
+I am currently spending my first semester at Université Clermont Auvergne, with subsequent semesters planned at TU Dortmund University and the University of Bologna.
 
-My main interests are **theoretical physics, quantum computing and quantum machine learning (QML)**. I approach computational problems from a physics perspective, using programming to explore, simulate and test ideas.
+My main interests are theoretical physics, quantum computing and quantum machine learning (QML). I approach computational problems from a physics perspective, using programming to explore, simulate and test ideas.
 
-For my completed undergraduate thesis, I studied **tensor networks for image classification**, working with **Matrix Product States (MPS)** and **Tree Tensor Networks (TTN)**. My background also includes experience at **ITCL**, alongside hands-on work implementing and analysing computational models.
+For my completed undergraduate thesis, I studied tensor networks for image classification, working with Matrix Product States (MPS) and Tree Tensor Networks (TTN). My background also includes experience at ITCL, alongside hands-on work implementing and analysing computational models.
 
 > My goal is to deepen my training in theoretical physics and pursue research at the intersection of physics and quantum computing.
 
@@ -65,15 +65,15 @@ For my completed undergraduate thesis, I studied **tensor networks for image cla
 | Period | Milestone |
 |--------|-----------|
 | **July 2026** | Graduated in Physics; completed my undergraduate thesis on tensor networks for image classification. |
-| **September 2026 – present** | Erasmus Mundus **IMAPP — Advanced Methods in Particle Physics**. |
-| **Semester 1 · current** | **Université Clermont Auvergne**, France. |
-| **Subsequent semesters · planned** | **TU Dortmund University**, Germany, and **University of Bologna**, Italy. |
+| **September 2026 – present** | Erasmus Mundus IMAPP — Advanced Methods in Particle Physics. |
+| **Semester 1 · current** | Université Clermont Auvergne, France. |
+| **Subsequent semesters · planned** | TU Dortmund University, Germany & University of Bologna, Italy. |
 
 ## Research & Experience
 
 | Work | Focus |
 |------|-------|
-| **Undergraduate thesis · completed** | Studied **MPS and TTN architectures for image classification**, implementing models and analysing their behaviour within a quantum-inspired machine learning framework. |
+| **Undergraduate thesis · completed** | Studied MPS and TTN architectures for image classification, implementing models and analysing their behaviour within a quantum-inspired machine learning framework. |
 | **ITCL internship experience** | Part of my professional experience alongside my academic training in physics and computational modelling. |
 
 ## What I Am Focusing On
