@@ -1,12 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=220&section=header&text=Manuel%20Arenas%20Sánchez&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Physics%20|%20Quantum%20Computing%20|%20AI%20|%20Tensor%20Networks&descAlignY=58" alt="header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=220&section=header&text=Manuel%20Arenas%20Sánchez&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Physics%20|%20Quantum%20Computing%20|%20QML%20|%20Tensor%20Networks&descAlignY=58" alt="Manuel Arenas Sánchez — Physics, Quantum Computing, QML and Tensor Networks" />
 
-### Physics student exploring tensor networks, quantum-inspired models, and their applications to machine learning
+### Physics graduate · Erasmus Mundus IMAPP student
+#### Exploring theoretical physics, quantum computing and tensor networks for machine learning
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-arenas-sánchez-8ba6b9352)
 [![Email](https://img.shields.io/badge/Email-Write%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manuelarenas2002@hotmail.es)
-[![Focus](https://img.shields.io/badge/Focus-Tensor%20Networks%20%26%20ML%20%26%20QML-111111?style=for-the-badge)](#)
+[![Focus](https://img.shields.io/badge/Focus-Theoretical%20Physics%20%26%20Quantum%20Computing%20%26%20QML-111111?style=for-the-badge)](#currently-interested-in)
 
 </div>
 
@@ -18,13 +19,15 @@
 
 ## About Me
 
-I am a Physics student currently working on my final degree project, focused on the application of **tensor networks** to machine learning problems.
+I graduated in **Physics in July 2026** and, since **September 2026**, have been studying **Advanced Methods in Particle Physics (IMAPP)**, an Erasmus Mundus master's programme.
 
-My main interest lies in theoretical physics and quantum computing. I approach problems from a physics perspective, using programming as a tool to explore, simulate, and test ideas.
+I am currently spending my **first semester at Université Clermont Auvergne**, with subsequent semesters planned at **TU Dortmund University** and the **University of Bologna**.
 
-My current work is centred on tensor networks, particularly architectures such as MPS, applied to tasks like image classification within a quantum-inspired framework. Most of this experience comes from hands-on work: implementing models, experimenting with different structures, and analysing their behaviour.
+My main interests are **theoretical physics, quantum computing and quantum machine learning (QML)**. I approach computational problems from a physics perspective, using programming to explore, simulate and test ideas.
 
-> My goal is to continue my training in theoretical physics and move towards research in quantum computing.
+For my completed undergraduate thesis, I studied **tensor networks for image classification**, working with **Matrix Product States (MPS)** and **Tree Tensor Networks (TTN)**. My background also includes experience at **ITCL**, alongside hands-on work implementing and analysing computational models.
+
+> My goal is to deepen my training in theoretical physics and pursue research at the intersection of physics and quantum computing.
 
 </td>
 <td width="42%" valign="top">
@@ -33,44 +36,51 @@ My current work is centred on tensor networks, particularly architectures such a
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorKrowch](https://img.shields.io/badge/TensorKrowch-20232A?style=flat-square)
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ![Tensor Networks](https://img.shields.io/badge/Tensor%20Networks-20232A?style=flat-square)
 ![Quantum Computing](https://img.shields.io/badge/Quantum%20Computing-20232A?style=flat-square)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-20232A?style=flat-square)
-![Physics](https://img.shields.io/badge/Physics-20232A?style=flat-square)
+![Quantum Machine Learning](https://img.shields.io/badge/Quantum%20Machine%20Learning-20232A?style=flat-square)
 ![Scientific Computing](https://img.shields.io/badge/Scientific%20Computing-20232A?style=flat-square)
 
 ## Currently Interested In
 
-- Tensor network architectures (MPS, TTN) for learning tasks  
-- Quantum-inspired approaches to machine learning  
-- How model structure affects expressivity and efficiency  
-- Connections between physics-based models and modern AI  
+- Theoretical physics and particle physics
+- Quantum computing and quantum machine learning
+- Tensor network architectures, including MPS and TTN
+- Quantum-inspired approaches to machine learning
+- Model expressivity, computational efficiency and scientific computing
 
 </td>
 </tr>
 </table>
 
-## What I Am Working On
+## Academic Path
 
-- Studying tensor network formalisms (MPS, TTN) and their application to learning problems.
-- Applying tensor-network-based models to image classification tasks.
-- Implementing and testing models using scientific computing tools (Python, PyTorch, tensorkrowch).
-- Analysing the performance and limitations of tensor-network approaches compared to standard methods.
-- Exploring quantum-inspired approaches to machine learning.
-- Developing my final degree thesis (TFG) on tensor networks applied to AI.
+| Period | Milestone |
+|--------|-----------|
+| **July 2026** | Graduated in Physics; completed my undergraduate thesis on tensor networks for image classification. |
+| **September 2026 – present** | Erasmus Mundus **IMAPP — Advanced Methods in Particle Physics**. |
+| **Semester 1 · current** | **Université Clermont Auvergne**, France. |
+| **Subsequent semesters · planned** | **TU Dortmund University**, Germany, and **University of Bologna**, Italy. |
 
-## Featured Projects
+## Research & Experience
 
-| Project | Description |
-|---------|-------------|
-| **Tensor-Network-Based-Models-for-Image-Classification-in-Deep-Learning** | Implementing and analysing tensor-network architectures (MPS, TTN) as layers within deep learning pipelines for image classification. |
-| **Tensor-Network-Based-Machine-Learning-Flowers-Dataset-Benchmark** | Benchmarking tensor-network-based models on real-world image datasets to evaluate their practical performance and scalability. |
+| Work | Focus |
+|------|-------|
+| **Undergraduate thesis · completed** | Studied **MPS and TTN architectures for image classification**, implementing models and analysing their behaviour within a quantum-inspired machine learning framework. |
+| **ITCL internship experience** | Part of my professional experience alongside my academic training in physics and computational modelling. |
 
-> These repositories are currently private and will be made public in the future.
+## What I Am Focusing On
+
+- Building a deeper foundation in particle physics through the IMAPP master's programme.
+- Developing my interests in theoretical physics and quantum computing.
+- Building on the tensor network and machine learning experience gained during my undergraduate thesis.
 
 <br>
 
@@ -86,10 +96,14 @@ My current work is centred on tensor networks, particularly architectures such a
 
 ## A More Personal Note
 
-I became interested in tensor networks through my final degree project, as they provide a natural connection between quantum physics and computational modelling.
+I became interested in tensor networks through my undergraduate thesis, as they provide a natural connection between quantum physics and computational modelling.
 
-This GitHub is where I keep track of what I learn and build along the way — from small experiments to more structured projects. Over time, I want it to reflect my progress towards working in quantum computing and research.
+Now, as a physics graduate and IMAPP student, I want to keep exploring those connections while broadening my understanding of fundamental physics. This GitHub is where I share what I learn and build along the way.
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1d4ed8,100:0f172a&height=120&section=footer" alt="footer banner" />
+
+<sub>Last updated: 16 October 2026</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1d4ed8,100:0f172a&height=120&section=footer" alt="footer banner" />
+
 </div>
